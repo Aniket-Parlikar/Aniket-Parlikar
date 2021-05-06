@@ -2,8 +2,10 @@
 - 👀 I’m interested in Data Science,Machine Learning and Python Development
 - 🌱 I’m currently learning C++ programming and Natural Language Processing
 - 💞️ I’m looking to collaborate on Machine Learning projects 
-- 📫 How to reach me email:aniket.parlikar316@gmail.com
-                      LinkedIn:https://www.linkedin.com/in/aniket-parlikar-332bb2168/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B0UhqNWriRvufzNaegfyEew%3D%3D
+- 📫 How to reach me 
+- 1) emailaniket.parlikar316@gmail.com
+
+- 2) LinkedIn:https://www.linkedin.com/in/aniket-parlikar-332bb2168/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B0UhqNWriRvufzNaegfyEew%3D%3D
 
 
 <!---
