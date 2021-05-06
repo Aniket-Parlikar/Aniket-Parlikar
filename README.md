@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning C++ programming and Natural Language Processing
 - 💞️ I’m looking to collaborate on Machine Learning projects 
 - 📫 How to reach me 
-- 1) emailaniket.parlikar316@gmail.com
+- 1) Email: aniket.parlikar316@gmail.com
 
-- 2) LinkedIn:https://www.linkedin.com/in/aniket-parlikar-332bb2168/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B0UhqNWriRvufzNaegfyEew%3D%3D
+- 2) LinkedIn: https://www.linkedin.com/in/aniket-parlikar-332bb2168/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B0UhqNWriRvufzNaegfyEew%3D%3D
 
 
 <!---
