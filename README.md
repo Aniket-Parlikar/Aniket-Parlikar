@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aniket-Parlikar
 - 👀 I’m interested in Data Science,Machine Learning and Python Development
-- 🌱 I’m currently learning C++ programming and Natural Language Processing
-- 💞️ I’m looking to collaborate on Cloud Computing, Machine Learning, and Data Science projects 
+- 🌱 I’m currently learning Backend development using Django, Frontend development using React.js and building deep learning networks using Pytorch.
+- 💞️ I’m looking to collaborate on Frontend,Backend and Data Science related projects
 - 📫 How to reach me 
 - 1) Email: aniket.parlikar316@gmail.com
 
