@@ -7,7 +7,9 @@
 
 - 2) LinkedIn: https://www.linkedin.com/in/aniket-parlikar-332bb2168/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B0UhqNWriRvufzNaegfyEew%3D%3D
 
+---
 
+### :fire: My Stats :
 <!---
 Aniket-Parlikar/Aniket-Parlikar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
