@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 - 1) Email: anikpar@umd.edu
 
-- 2) LinkedIn: https://www.linkedin.com/in/aniket-parlikar-332bb2168/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B0UhqNWriRvufzNaegfyEew%3D%3D
+- 2) LinkedIn: https://www.linkedin.com/in/aniket-parlikar
 
 ---
 
