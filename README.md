@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Aniket-Parlikar
-- 👀 I’m interested in Data Science,Machine Learning and Python Development
-- 🌱 I’m currently learning C/C++ for LLVM Compiler design and building deep learning networks using Pytorch/Tensorflow.
-- 💞️ I’m looking to collaborate on Frontend,Backend and Data Science related projects
+- 👀 I’m interested in Full Stack Development, Data Science and Cloud Engineering.
+- 🌱 I’m love coding using Python and Java and I'm also an AWS Certified Solutions Architect.
+- 💞️ I’m currently looking for full-time opportunities related to Software Engineering and Cloud Computing
 - 📫 How to reach me 
-- 1) Email: aniket.parlikar316@gmail.com
+- 1) Email: anikpar@umd.edu
 
 - 2) LinkedIn: https://www.linkedin.com/in/aniket-parlikar-332bb2168/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3B0UhqNWriRvufzNaegfyEew%3D%3D
 
